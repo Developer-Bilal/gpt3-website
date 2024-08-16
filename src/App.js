@@ -9,7 +9,7 @@ import {
   Features,
   WhatGPT3,
 } from "./containers";
-import { Article, Brand, Cta, Feature, Navbar } from "./components";
+import { Brand, Cta, Navbar } from "./components";
 
 const App = () => {
   return (
